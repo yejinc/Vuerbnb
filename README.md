@@ -4,7 +4,7 @@
 <!-- Header -->
 
 <div align="middle" >
-  <img width="120px;" src="https://user-images.githubusercontent.com/46529118/141472046-37065a9b-71b7-47f3-a034-e6a522294c79.png"/>
+  <img width="120px;" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/house-with-garden_1f3e1.png"/>
 </div>
 <h1 align="middle">Vuerbnb</h2>
 <p align="middle">Online housing-rental service website made with Vue.js</p>
