@@ -23,6 +23,8 @@
 <br />
 <br />
 
+<!-- Content -->
+
 ## 📸 Screenshots
 <img width="1280" alt="" src="https://user-images.githubusercontent.com/46529118/128820127-1d613465-2b1b-4c40-8c3c-ebd78f01d9ec.png">
 <img width="1280" alt="Screenshot 2021-08-10 at 3 35 39 PM" src="https://user-images.githubusercontent.com/46529118/128820134-df5c387f-0606-443f-a4ae-2e88fb6f06a4.png">
@@ -36,7 +38,12 @@
 <br />
 <br />
 
+<!-- Todo -->
+
 ## 👀 Todo list
 - [ ] Add transition to Flexible component
 - [ ] Make Flexible component to last longer
 - [ ] Manage CSS with SASS
+
+<br />
+<br />
