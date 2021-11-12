@@ -1,7 +1,7 @@
 # vuerbnb
 Vuerbnb is a housing-rental service project made by Vue.js.
 
-## GIFs
+## Overviews
 
 
 https://user-images.githubusercontent.com/46529118/128824341-1897f095-71a4-494b-bf7d-84a67d0f74f9.mov
