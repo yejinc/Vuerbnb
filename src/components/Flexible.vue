@@ -3,7 +3,7 @@
     <h2 class="flexible-text">
       Not sure where to go? Perfect.
     </h2>
-    <button class="flexible-button">
+    <button class="flexible-button" type="button">
       I'm flexible
     </button>
   </div>
